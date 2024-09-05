@@ -1,0 +1,9 @@
+Initialize language server at  file:///home/fethy/warpgate
+Initialize new ts service at  /home/fethy/warpgate/warpgate-web/tsconfig.json
+Trying to load configs for /home/fethy/warpgate/warpgate-web
+Loaded config at  /home/fethy/warpgate/warpgate-web/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 47
+Svelte files: 34
+From node_modules: 0
+Total: 47

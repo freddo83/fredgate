@@ -578,7 +578,7 @@ impl ServerSession {
                             ERASE_PROGRESS_SPINNER,
                             Colour::Black
                                 .on(Colour::Green)
-                                .paint(" ✓ Warpgate connected ")
+                                .paint(" ✓ CSI-gate connectée ")
                         )));
                     }
                     RCState::Disconnected => {
